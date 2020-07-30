@@ -1,7 +1,6 @@
-     _______  __   __          __   __  _______  ___      ___      _______  __     ___   ____     
-    |       ||  | |  |        |  | |  ||       ||   |    |   |    |       ||  |   |   | |    |    
-    |   _   ||  |_|  |        |  |_|  ||    ___||   |    |   |    |   _   ||  |   |___| |_    |   
-    |  | |  ||       |        |       ||   |___ |   |    |   |    |  | |  ||  |    ___    |   |   
-    |  |_|  ||       | ___    |       ||    ___||   |___ |   |___ |  |_|  ||__|   |   |   |   |   
-    |       ||   _   ||_  |   |   _   ||   |___ |       ||       ||       | __    |___|  _|   |   
-    |_______||__| |__|  |_|   |__| |__||_______||_______||_______||_______||__|         |____|    
+<div align="center">
+	<br>
+          <!-- Taken from https://github.com/sindresorhus/css-in-readme-like-wat -->
+		<img src="https://raw.githubusercontent.com/benoitzohar/benoitzohar/master/home.svg" width="800" height="400">
+	<br>
+</div>
