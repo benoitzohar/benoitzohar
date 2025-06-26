@@ -2,9 +2,9 @@
 
 # Personal stuff and fun facts
 
-- I grew up in France 🇫🇷, lived for a bit in Scotla󠁧nd, then moved to Canada 🇨🇦 about 6 years ago, currently living in Montréal, Qc.
-- I traveled to 49 countries and speak fluently French and English. I understand and speak a little of German, Spanish, bits of Portuguese, and a lot less of Japanese.
-- In my free time, I rock climb, create fun little apps and enjoy listening to electronic music. I play [piano](https://www.youtube.com/watch?v=dO5kBGaSTas), guitar, ukulele, and a bit of drums. I also started enjoying free diving which, along with meditation, helps me find my inner calm. My current static apnea record is 5min 05 seconds.
+- I grew up in France 🇫🇷, lived for a bit in Scotla󠁧nd, then moved to Canada 🇨🇦 about 9 years ago, currently living in Montréal, Qc.
+- I traveled to 51 countries and speak fluently French and English. I understand and speak a little of German, Spanish, bits of Portuguese, and a lot less of Japanese.
+- In my free time, I rock climb, chill on my SUP, create fun little apps and enjoy listening to electronic music. I play [piano](https://www.youtube.com/watch?v=dO5kBGaSTas), guitar, ukulele, and a bit of drums. I also started enjoying free diving which, along with meditation, helps me find my inner calm. My current static apnea record is 5 min 34 seconds and my max depth on one breath is 50 meters.
 - I can do fun sounds with my mouth, but never got around to recording videos for it so my youtube channel is empty. Maybe this year? ¯\_(ツ)_/¯
 - A few months ago I started recording one second of my life every day, if you have a few minutes to spare, [here’s a playlist of my last months](https://www.youtube.com/watch?v=OCuDnHXdgk0&list=PL0ZTVep8zUAU4dNggqmgGYYhDbpadTvH1&index=1), so you can see what my life looks like.
 
